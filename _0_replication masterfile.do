@@ -9,8 +9,8 @@ set excelxlsxlargefile on
 global F5 "browse;"
 frame reset
 
-cd "C:\Users\VK\Dropbox\10_Covid19_EU"
-global rawdata "C:\Users\VK\Sync\Research\Helplinedata local"
+cd "C:"
+global rawdata "C:"
 //**************************************************
 
 
